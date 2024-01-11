@@ -1,4 +1,4 @@
-### [accountill.com](https://accountill.com/)
+
 
 # MERN Stack Invoicing Application
 
